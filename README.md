@@ -1,5 +1,5 @@
-# NEWSTUDY: Daily Precipitation ML Benchmark (2001–2024)
-## NEWSTUDY: Günlük Yağış İçin ML Kıyaslaması (2001–2024)
+# Daily Precipitation ML Benchmark (2001–2024)
+## Günlük Yağış İçin ML Kıyaslaması (2001–2024)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tdmuftuoglu/Daily-Precipitation-Model-ML/blob/main/NEWSTUDY.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
